@@ -1,0 +1,11 @@
+﻿case_number
+dlc
+last_name
+first_name
+missing_age
+city
+county
+state
+sex
+race_ethnicity
+date_modified
